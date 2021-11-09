@@ -1,2 +1,2 @@
-# Last Kingdom Server 9.1.0.40443 - BugTracker
+# Last Kingdom Server 9.1.5.40944 - BugTracker
 Submit your Bugs Here - Envoyez vos bugs ici
